@@ -9,6 +9,7 @@ import lombok.Setter;
 @Setter
 public class Friend {
 	int seq;
+	int age;
 	String name;
 	String group;
 	Timestamp create;
